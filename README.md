@@ -3,6 +3,6 @@
 <p align='center'>
 I'm Geru :alien:
 </p>
-<p align='center'>At your service <a href="https://twitter.com/geanruca">Twitter</a>.</p>
+<p align='center'>At your service.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
